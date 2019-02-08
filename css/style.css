@@ -4,6 +4,12 @@ body {
     background-color:#FFF;
 }
 
+.parejas {
+    margin: 100px 0; 
+    text-align:center;
+    display: none;
+}
+
 #board {
     text-align: center;
 }
